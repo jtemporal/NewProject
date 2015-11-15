@@ -12,7 +12,6 @@ if(length(a) == 0){
 
 jokenpo <- function(entry){
     win_dict <- c(p="r",r="s", s="p")
-#    names(win_dict) <- c("p", "r", "s")
 
     for (i in seq_along(entry)){
     	p1 <- strsplit(entry[i], split=",")[[1]][1] # player 1
