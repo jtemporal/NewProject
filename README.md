@@ -12,3 +12,5 @@ To make an executable (in linux):
 if you are using R GUI or RStudio just run your code
 the output will be displayed in the console
 
+-start programming-\o/
+
